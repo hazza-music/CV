@@ -1,5 +1,5 @@
 My CV
 
-See latest version [here](https://finlayrjw.github.io/CV/CV.pdf)
+See latest version [here](https://github.com/hazza-music/CV/releases/download/V2/Harriet-Drury-CV.pdf)
 
-See releases [here](https://github.com/FinlayRJW/CV/releases)
+See releases [here](https://github.com/hazza-music/CV/releases)
